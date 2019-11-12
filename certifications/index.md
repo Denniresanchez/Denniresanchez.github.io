@@ -1,12 +1,12 @@
 
 layout: page
-title: About Me
+title: Certifications
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: EducatingPeople-yellow.png
+  feature: myimage.jpg
   <!-- credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-**Dennire**
+**Aws Cloud Practitioner**
