@@ -16,3 +16,4 @@ Hello, my name is **Dennire Sanchez** and I am originally from Venezuela.
 
 [^1]: Example: *domain.com/category-name/post-title*
  
+ 
