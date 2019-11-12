@@ -15,26 +15,17 @@ image:
 
 
   
-**Nova Southeastern University (2020 - )**
-   
-   * Master's Degree in Computer Science
- 
-**Revature (January 2019 - May 2019)**
-   * Full Stack Web Developer, Computer Science [Boot Camp]
- 
-**Keiser University (August 2017 - October 2017)**
-   * Bachelor's Degree in Software Engineering
- 
-**Miami Dade College (2013)**
-   * Algebra
-   * Mathematical Statistics & Probabilities
-   
-**Concordia University-Portland, OR (2010 - 2011)**
-   * Master's Degree in Curriculum & Instruction with minor in ESOL
-  
-**University of Havana, Cuba (1997 - 2002)**
-   * Bachelor's Degree in English Language and Literature with concentration in Translation & Interpretation
+**Miami Dade College, Miami, FL.**
+AWS Cloud Practitioner Certification.                                                September 2019 - November 2019.
 
+**Miami Dade College, Miami, FL.**
+ESL Certification.                                                                       March-2018 - November 2018.
+
+**University of Carabobo, Valencia, Venezuela.** 
+Integral design of manufacturing plants certification.                                      July 2014 - August 2014.
+
+**University of Carabobo, Valencia, Venezuela.**
+Bachelor of Science in Civil Engineering.                                                 August 2007 - August 2013.
 
  
 [^1]: Example: *domain.com/category-name/post-title*
