@@ -34,5 +34,5 @@ July 2014 - August 2014.
 Bachelor of Science in Civil Engineering.                                                 
 August 2007 - August 2013.
 
- 
+  
 [^1]: Example: *domain.com/category-name/post-title*
