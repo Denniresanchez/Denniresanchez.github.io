@@ -36,5 +36,5 @@ image:
    * Bachelor's Degree in English Language and Literature with concentration in Translation & Interpretation
 
 
-
+ 
 [^1]: Example: *domain.com/category-name/post-title*
