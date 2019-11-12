@@ -1,4 +1,4 @@
-Esteban Oliva 11:07 AM
+
 ---
 layout: page
 title: About Me
