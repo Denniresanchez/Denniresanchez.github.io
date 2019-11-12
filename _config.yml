@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Denniresanchez
+title: Dennire Sanchez
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: My personal Website
 logo: site-logo.png
 url: https://Denniresanchez.github.io
 
@@ -36,24 +36,9 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Dennire Sanchez
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
+  email: denniresanchez@gmail.com
   disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
-  stackexchange:
-  linkedin:
-  instagram: mmistakes
-  flickr:
-  tumblr: mademistakes
-  pinterest:
-  weibo:
-  google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  github: https://github.com/Denniresanchez
+  linkedin: www.linkedin.com/in/dennire-sanchez-202395127
