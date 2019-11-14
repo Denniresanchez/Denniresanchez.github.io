@@ -15,27 +15,27 @@ image:
 
 
   
-**- Miami Dade College, Miami, FL.**
+**- AWS Cloud Practitioner Certification.**
 
-    * AWS Cloud Practitioner Certification.                                                
+    * Miami Dade College, Miami, FL.                                                
     * September 2019 - November 2019.
 
 
-**- Miami Dade College, Miami, FL.**
+**- ESL Certification.**
 
-    * ESL Certification.                                                                       
+    * Miami Dade College, Miami, FL.                                                                      
     * March-2018 - November 2018.
 
 
-**- University of Carabobo, Valencia, Venezuela.** 
+**- Integral design of manufacturing plants certification.** 
 
-    * Integral design of manufacturing plants certification.                                      
+    * University of Carabobo, Valencia, Venezuela                                      
     * July 2014 - August 2014.
 
 
-**- University of Carabobo, Valencia, Venezuela.**
+**- Bachelor of Science in Civil Engineering.**
 
-    * Bachelor of Science in Civil Engineering.                                                 
+    * University of Carabobo, Valencia, Venezuela.                                                  
     * August 2007 - August 2013.
 
   
