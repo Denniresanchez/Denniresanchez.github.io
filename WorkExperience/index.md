@@ -16,12 +16,14 @@ image:
 **- Undergraduate Professor of Soil Mechanics Laboratory.**
 
    University of Carabobo, Valencia, Venezuela.
+   
    March 2016 - August 2017.
    * Successfully trained 28 students and evaluated the programmatic content of the Soil Mechanics Chair with 95% approved students.
 
 **- Project  Engineer.** 
 
    Sismica CA, Valencia, Venezuela. 
+   
    January 2015 - March 2017.
    * Developed 50 economic proposals for engineering projects with 80% of them approved.
    * Successfully made the take off of 50 engineering projects.
@@ -32,7 +34,8 @@ image:
 
 **- Sismica CA, Valencia, Venezuela.** 
 
-   Inspector Engineer.                                                                             
+   Inspector Engineer.     
+   
    January 2014 - January 2015.
    * Verified project execution ensuring compliance with drawing, codes and regulations.
    * Reviewed and updated the master project schedules using Microsoft Project.
