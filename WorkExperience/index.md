@@ -15,14 +15,14 @@ image:
 
 **- Undergraduate Professor of Soil Mechanics Laboratory.**
 
-   * University of Carabobo, Valencia, Venezuela.
-   * March 2016 - August 2017.
+   University of Carabobo, Valencia, Venezuela.
+   March 2016 - August 2017.
    * Successfully trained 28 students and evaluated the programmatic content of the Soil Mechanics Chair with 95% approved students.
 
 **- Project  Engineer.** 
 
-   * Sismica CA, Valencia, Venezuela. 
-   * January 2015 - March 2017.
+   Sismica CA, Valencia, Venezuela. 
+   January 2015 - March 2017.
    * Developed 50 economic proposals for engineering projects with 80% of them approved.
    * Successfully made the take off of 50 engineering projects.
    * Supported and coordinated a team of 8 engineers in order to  achieve objectives and meet deadlines.
@@ -32,8 +32,8 @@ image:
 
 **- Sismica CA, Valencia, Venezuela.** 
 
-   * Inspector Engineer.                                                                             
-   * January 2014 - January 2015.
+   Inspector Engineer.                                                                             
+   January 2014 - January 2015.
    * Verified project execution ensuring compliance with drawing, codes and regulations.
    * Reviewed and updated the master project schedules using Microsoft Project.
    * Reviewed and approved over 150 as built measurements spreadsheets and appraisal performed by contractors, and approved requisition of payments.
@@ -41,8 +41,8 @@ image:
  
 **- Kayson Company SA, Valencia, Venezuela.** 
 
-  *  Quality and detailer Inspector Engineer.**                                                          
-  *  August 2013 - January 2014.
+  Quality and detailer Inspector Engineer.**                                                          
+  August 2013 - January 2014.
   * Verified project execution ensuring compliance with drawing, codes and regulations.
   *  Reviewed and updated the master project schedules using Microsoft Project.
   *  Reviewed and approved over 150 as built measurements spreadsheets and appraisal performed by contractors, and approved requisition of payments.
