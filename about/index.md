@@ -11,9 +11,9 @@ image:
 Hello, my name is **Dennire Sanchez** and I am originally from Venezuela. 
 In 2013 I finished my **Bachelor's Degree in Civil Engineering** in the University of Carabobo, Venezuela. 
 A few years later, I decided to change my career path and went for a **Cloud Support Engineer program** at Miami Dade College and graduated in 2019.
-Soon I will be getting my Cloud Pactitioner AWS Certification in 2019.
+Soon I will be getting my **AWS Cloud Pactitioner Certification** in 2019.
 
-I consider myself and a ccomplished Engineer, **passionate learner**, well-versed in achieving and exceeding goals through **management and strategy development.**
+I consider myself and accomplished Engineer, **passionate learner**, well-versed in achieving and exceeding goals through **management and strategy development.**
 
 I'm looking for new opportunities to grow as a professional.
 
