@@ -16,7 +16,7 @@ Soon I will be getting my **AWS Cloud Practitioner Certification** in 2019. Next
 
 I consider myself an accomplished Engineer, **passionate learner**, well-versed in achieving and exceeding goals through **management and strategy development.**
 
-I'm looking for new opportunities to grow as a professional.
+I'm always looking for new opportunities to grow as a professional.
 
 <a markdown="0" href="https://www.linkedin.com/in/dennire-sanchez-202395127" class="btn">More on Dennire</a>
 
