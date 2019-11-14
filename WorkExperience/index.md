@@ -16,37 +16,38 @@ image:
 **- Undergraduate Professor of Soil Mechanics Laboratory.**
 
    University of Carabobo, Valencia, Venezuela.
-   
    March 2016 - August 2017.
-   * Successfully trained 28 students and evaluated the programmatic content of the Soil Mechanics Chair with 95% approved students.
+   
+     * Successfully trained 28 students and evaluated the programmatic content of the Soil Mechanics Chair with 95% approved students.
 
 **- Project  Engineer.** 
 
    Sismica CA, Valencia, Venezuela. 
-   
    January 2015 - March 2017.
-   * Developed 50 economic proposals for engineering projects with 80% of them approved.
-   * Successfully made the take off of 50 engineering projects.
-   * Supported and coordinated a team of 8 engineers in order to  achieve objectives and meet deadlines.
-   * Reviewed around 2000 AutoCAD drawings detecting inconsistencies, and approving them with a high level of quality.
-   * Prepared administrative and technical reports for clients and supervisors.
-   * Designed 30 spreadsheets in Microsoft Excel used to design sanitary systems, structural systems and estimated costs.
+   
+     * Developed 50 economic proposals for engineering projects with 80% of them approved.
+     * Successfully made the take off of 50 engineering projects.
+     * Supported and coordinated a team of 8 engineers in order to  achieve objectives and meet deadlines.
+     * Reviewed around 2000 AutoCAD drawings detecting inconsistencies, and approving them with a high level of quality.
+     * Prepared administrative and technical reports for clients and supervisors.
+     * Designed 30 spreadsheets in Microsoft Excel used to design sanitary systems, structural systems and estimated costs.
 
 **- Sismica CA, Valencia, Venezuela.** 
 
    Inspector Engineer.     
-   
    January 2014 - January 2015.
-   * Verified project execution ensuring compliance with drawing, codes and regulations.
-   * Reviewed and updated the master project schedules using Microsoft Project.
-   * Reviewed and approved over 150 as built measurements spreadsheets and appraisal performed by contractors, and approved requisition of payments.
-   * Prepared 10 administrative and technical informs including yield curve and project performance analysis to improve weekly efficiency.
+   
+     * Verified project execution ensuring compliance with drawing, codes and regulations.
+     * Reviewed and updated the master project schedules using Microsoft Project.
+     * Reviewed and approved over 150 as built measurements spreadsheets and appraisal performed by contractors, and approved requisition of payments.
+     * Prepared 10 administrative and technical informs including yield curve and project performance analysis to improve weekly efficiency.
  
 **- Kayson Company SA, Valencia, Venezuela.** 
 
-  Quality and detailer Inspector Engineer.**                                                          
+  Quality and detailer Inspector Engineer.                                                          
   August 2013 - January 2014.
-  * Verified project execution ensuring compliance with drawing, codes and regulations.
-  *  Reviewed and updated the master project schedules using Microsoft Project.
-  *  Reviewed and approved over 150 as built measurements spreadsheets and appraisal performed by contractors, and approved requisition of payments.
-  *  Prepared 10 administrative/technical informs including yield curve and project performance analysis to improve week efficiency.
+  
+    * Verified project execution ensuring compliance with drawing, codes and regulations.
+    *  Reviewed and updated the master project schedules using Microsoft Project.
+    *  Reviewed and approved over 150 as built measurements spreadsheets and appraisal performed by contractors, and approved requisition of payments.
+    *  Prepared 10 administrative/technical informs including yield curve and project performance analysis to improve week efficiency.
