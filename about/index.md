@@ -14,7 +14,7 @@ A few years later, I decided to change my career path and went for a **Cloud Sup
 
 Soon I will be getting my **AWS Cloud Pactitioner Certification** in 2019. Next to this I want to become an **AWS Solutions Architect**
 
-I consider myself and accomplished Engineer, **passionate learner**, well-versed in achieving and exceeding goals through **management and strategy development.**
+I consider myself an accomplished Engineer, **passionate learner**, well-versed in achieving and exceeding goals through **management and strategy development.**
 
 I'm looking for new opportunities to grow as a professional.
 
