@@ -39,7 +39,7 @@ image:
    * Reviewed and approved over 150 as built measurements spreadsheets and appraisal performed by contractors, and approved requisition of payments.
    * Prepared 10 administrative and technical informs including yield curve and project performance analysis to improve weekly efficiency.
  
-**Kayson Company SA, Valencia, Venezuela.** 
+**- Kayson Company SA, Valencia, Venezuela.** 
 
   *  Quality and detailer Inspector Engineer.**                                                          
   *  August 2013 - January 2014.
