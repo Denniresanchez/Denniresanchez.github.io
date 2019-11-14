@@ -15,6 +15,6 @@ image:
 
 **-Phone Number:** (786) 235-2940‬
 
-**-Email Address:** <a href="Denniresanchez@gmail.com">Click here</a>
+**-Email Address:** <a href="mailto:Denniresanchez@gmail.com">Click here</a>
 
 **-LinkedIn:** [https://www.linkedin.com/in/dennire-sanchez-202395127/](https://www.linkedin.com/in/dennire-sanchez-202395127/)
