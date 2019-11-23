@@ -13,6 +13,5 @@ image:
 
 <hr/>
 
-  COMING SOON... 
-    **Aws Cloud Practitioner certification**
+  **- AWS Cloud Practitioner**
 
