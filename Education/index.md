@@ -15,13 +15,13 @@ image:
 
 
   
-**- AWS Cloud Practitioner Certification.**
+**- AWS Cloud Support Engineer.**
 
     * Miami Dade College, Miami, FL.                                                
     * September 2019 - November 2019.
 
 
-**- ESL Certification.**
+**- English as Second Language.**
 
     * Miami Dade College, Miami, FL.                                                                      
     * March-2018 - November 2018.
